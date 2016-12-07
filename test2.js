@@ -1,5 +1,5 @@
 var i = 1
-console.log(i + 2)
+console.log("sss", i + 2)
 
 
 
